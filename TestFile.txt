@@ -4,11 +4,12 @@ public static void main(String args[]){
 		i = count(i);
 		k = count(k);
 		System.out.println(i);
-		System.out.println(k);
 	}
 	
 	private static int count(int y){
 		y = y + 1;
 		return y;
 	}
+}
+{
 }
